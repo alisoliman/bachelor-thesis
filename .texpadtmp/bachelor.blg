@@ -1,0 +1,54 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: /Users/Ali/Google Drive/1. University/Semester 10/Bachelor Project/Bachelor Files/bachelor_thesis_template/.texpadtmp/bachelor.aux
+A level-1 auxiliary file: GUC_TitlePage.aux
+A level-1 auxiliary file: acknowledgments.aux
+A level-1 auxiliary file: abstract.aux
+A level-1 auxiliary file: introduction.aux
+A level-1 auxiliary file: background.aux
+A level-1 auxiliary file: conclusion.aux
+A level-1 auxiliary file: future_work.aux
+A level-1 auxiliary file: appendix.aux
+The style file: plain.bst
+Database file #1: ../bachelor.bib
+You've used 4 entries,
+            2118 wiz_defined-function locations,
+            537 strings with 5093 characters,
+and the built_in function-call counts, 1743 in all, are:
+= -- 183
+> -- 72
+< -- 3
++ -- 28
+- -- 24
+* -- 117
+:= -- 272
+add.period$ -- 15
+call.type$ -- 4
+change.case$ -- 24
+chr.to.int$ -- 0
+cite$ -- 4
+duplicate$ -- 77
+empty$ -- 136
+format.name$ -- 24
+if$ -- 389
+int.to.chr$ -- 0
+int.to.str$ -- 4
+missing$ -- 4
+newline$ -- 23
+num.names$ -- 8
+pop$ -- 28
+preamble$ -- 1
+purify$ -- 20
+quote$ -- 0
+skip$ -- 56
+stack$ -- 0
+substring$ -- 106
+swap$ -- 27
+text.length$ -- 3
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 16
+warning$ -- 0
+while$ -- 18
+width$ -- 5
+write$ -- 52
